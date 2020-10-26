@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "C:\\Users\\mob33uk\\Desktop\\ProjectWork\\TOM\\VSCodeWorkspace\\.envs\\venv_aima_python\\Scripts\\python.exe",
+    "python.venvPath": "C:\\Users\\mob33uk\\Desktop\\ProjectWork\\TOM\\VSCodeWorkspace\\.envs",
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "autopep8",
+    "python.autoComplete.extraPaths": [
+        "C:\\Users\\mob33uk\\Desktop\\ProjectWork\\TOM\\VSCodeWorkspace",
+        "C:\\Users\\mob33uk\\Desktop\\ProjectWork\\TOM\\VSCodeWorkspace\\gsn_mqtt_scheduler_v2",
+        "C:\\Users\\mob33uk\\Desktop\\ProjectWork\\TOM\\VSCodeWorkspace\\gsnwebsite_bp_integral\\app_flex"
+    ],
+}
